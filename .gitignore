@@ -1,4 +1,8 @@
 # General
 *.DS_Store
 
+# VSCode
 .vscode/
+
+# C++
+*.out
